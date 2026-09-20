@@ -4,7 +4,7 @@ cask "oxide-terminal" do
 
   url "https://github.com/bobbycoleman-dev/oxide/releases/download/v#{version}/Oxide-#{version}.dmg"
   name "Oxide"
-  desc "Terminal emulator"
+  desc "GPU-rendered terminal emulator written in Rust"
   homepage "https://oxideterminal.com/"
 
   auto_updates true
